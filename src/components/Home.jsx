@@ -7,7 +7,7 @@ function Home() {
 	// body...
 	return(
 		<div className="home">
-			<motion.h1 animate={{fontSize:'100px', color:'#c70046', y:40}}>SORTING VISUALIZER</motion.h1>
+			<motion.h1 animate={{fontSize:'100px', color:'#c70046', y:40}}>SORTING VISUALIZATION</motion.h1>
 			
 		</div>
 	)
