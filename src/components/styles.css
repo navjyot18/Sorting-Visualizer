@@ -1,0 +1,30 @@
+.home{
+	margin-top:0px;
+	height:840px;
+	background-color: #16304d;
+	text-align: center;
+}
+
+.TOI{
+	color: red;
+}
+
+.ringsAnimated {
+						position:'absolute';
+						top:840px;
+						left:520px;
+						border-radius:'5';
+						background-color:'black';
+						height:'40px';
+						animation-name: 'example';
+						animation-duration: '4s';
+						
+}
+  @keyframes example 
+{
+  0%   {left:520px; top:840px;}
+  25%  {left:520px; top:150px;}
+  50%  {left:980px; top:150px;}
+  75%  {left:980px; top:840px;}
+  100% {left:980px; top:840px;}
+}
