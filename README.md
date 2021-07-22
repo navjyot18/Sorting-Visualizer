@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Sorting Visualizer Project
+
+### This is a sorting visualization project made with the help of Reactjs framework. It provides visual representation of how sorting algorithms work.Bubble sort, insertion and selection sort were the major sorting algorithms implemented in the project.
+
+# HOME PAGE 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
