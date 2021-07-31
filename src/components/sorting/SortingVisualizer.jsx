@@ -259,7 +259,6 @@ function SortingVisualizer()
 	        	<Button onClick={()=>updateArray()} size="large" variant="contained">Generate new Array</Button>
 				<ButtonGroup  size="large" aria-label="small outlined button group">
 				  <Button onClick={()=>BubbleSort()} color="secondary" variant="text">Bubble Sort</Button>
-				  <Button onClick={()=>selectionSort()} color="secondary" variant="text">selection Sort</Button>
 				  <Button onClick={()=>insertionSort()} color="secondary" variant="text">Insertion Sort</Button>
 				  <Button onClick={()=>mergeSort()} color="secondary" variant="text">Merge sort</Button>
 			      <Typography style={{margin:'20px'}} id="continuous-slider" gutterBottom>
