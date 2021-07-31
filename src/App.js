@@ -10,6 +10,8 @@ import SortingVisualizer from './components/sorting/SortingVisualizer';
 
 function App() {
   return (
+    <SortingVisualizer />
+    /*
       <div>
       <Router>
         <div className="topnav">
@@ -38,6 +40,7 @@ function App() {
         </div>
       </Router>
       </div>
+      */
   );
 }
 
